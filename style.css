@@ -1,20 +1,11 @@
-body {
-    text-align: center;
-    margin-top: 100px;
-    font-family: Arial, sans-serif;
+/* 第一種文字陰影效果（orange 背景感覺） */
+.orange-shadow {
+  color: black;
+  text-shadow: 4px 4px orange;
 }
 
-.orange {
-    text-shadow: 5px 5px 10px orange;
-    font-size: 60px;
-}
-
-.gray {
-    text-shadow: 5px 5px 10px gray;
-    font-size: 60px;
-}
-
-.silver {
-    text-shadow: 5px 5px 10px silver;
-    font-size: 60px;
+/* 第二種文字陰影效果（gray+silver） */
+.gray-shadow {
+  color: black;
+  text-shadow: 4px 4px gray, 8px 8px silver;
 }
