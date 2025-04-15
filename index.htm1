@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>文字陰影效果</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="orange">Hi world~</h1>
+    <h1 class="gray">Hi world~</h1>
+    <h1 class="silver">Hi world~</h1>
+</body>
+</html>
